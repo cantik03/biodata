@@ -1,0 +1,119 @@
+[
+    {
+        "nama" : "Venusaur",
+        "tinggi" : "2.0m",
+        "berat" : "100.0 kg",
+        "kemampuan" : "Hijau Rindang",
+        "tipe" : "Daun,Racun",
+        "Ketegori" : "Pokemon Bibit",
+        "kelemahan" : [
+            "Api",
+            "Es",
+            "Terbang",
+            "Psychic"
+        ],
+        "bentuk" : [
+            "Venusaur",
+            "Mega Venusaur",
+            "Venusaur Gigantamax"
+        ],
+        "Evolusi" : [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ]
+    },
+
+    {
+        "nama" : "Butterfree",
+        "tinggi" : "1,1m",
+        "berat" : "32.0 kg",
+        "kemampuan" : "Mata Majemuk",
+        "tipe" : "Serangga,Terbang",
+        "Ketegori" : "Pokemon Kupu-Kupu",
+        "kelemahan" : [
+            "Api",
+            "Es",
+            "Terbang",
+            "Listrik",
+            "Bebatuan"
+        ],
+        "bentuk" : [
+            "Butterfree",
+            "Butterfree Gigantamax"
+        ],
+        "Evolusi" : [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ]
+    },
+
+    {
+        "nama" : "Charmeleon",
+        "tinggi" : "1,1m",
+        "berat" : "19.0 kg",
+        "kemampuan" : "Kobar Api",
+        "tipe" : "Api",
+        "Ketegori" : "Pokemon Lidah Api",
+        "kelemahan" : [
+            "Air",
+            "Tanah",
+            "Bebatuan"
+        ],
+        "bentuk" : [
+            "Pkemon ini tdk memiliki bentuk yg lain"
+        ],
+        "Evolusi" : [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ]
+    },
+
+    {
+        "nama" : "Squirtle",
+        "tinggi" : "0,5m",
+        "berat" : "9.0 kg",
+        "kemampuan" : "Arus Deras",
+        "tipe" : "Air",
+        "Ketegori" : "Pokemon Anak Kura-Kura",
+        "kelemahan" : [
+            "Daun",
+            "Listrik"
+        ],
+        "bentuk" : [
+            "Pkemon ini tdk memiliki bentuk yg lain"
+        ],
+        "Evolusi" : [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    },
+
+    {
+        "nama" : "Mega Blastoise",
+        "tinggi" : "1,6m",
+        "berat" : "101.1 kg",
+        "kemampuan" : "Peluncur Mega",
+        "tipe" : "Air",
+        "Ketegori" : "Pokemon Tempurung",
+        "kelemahan" : [
+            "Daun",
+            "Listrik"
+        ],
+        "bentuk" : [
+            "Blastoise",
+            "Mega Blastoise",
+            "Blastoise"
+        ],
+        "Evolusi" : [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ]
+    }
+    
+
+]
