@@ -1,0 +1,24 @@
+[
+    {
+        "nama" : "Meylani",
+        "tempat_lahir" : "Bandung",
+        "tanggal_lahir" : "2009-03-31",
+        "uang" : "true",
+        "alamat" : {
+            "jalan" : "Kp. Manglid RT 06 RW 11",
+            "desa" : "Margahayu",
+            "kecamatan" : "Margahayu Selatan"
+        },
+        "hobi" : [
+            "Makeup",
+            "Memasak",
+            "Hangout"
+        ],
+        "kontak" : {
+            "email" : "meylanisittimarhas@gmail.com",
+            "whatsapp" : "083112713833",
+            "github" : "ameylanicantik03",
+            "instagram" : "amellanisitti"
+        }
+    }
+]
